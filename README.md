@@ -57,7 +57,3 @@ Includes:
   - Bias mitigation strategies
   - Transparency requirements
 
----
-
-## Project Structure
-
