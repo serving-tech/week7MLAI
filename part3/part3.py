@@ -1,3 +1,8 @@
+# The following code was run in Google Colab in a GPU environment. Copy and paste this code in Google Colab, run it and get the results
+
+!pip install matplotlib seaborn scikit-learn pandas numpy
+!pip install aif360
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -10,8 +15,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Note: Install required packages with:
-# pip install matplotlib seaborn scikit-learn pandas numpy
-# For AIF360 (optional): pip install aif360
+
 
 # Set matplotlib backend to avoid display issues
 import matplotlib
