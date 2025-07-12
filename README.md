@@ -1,3 +1,21 @@
+## Group Members
+
+- **Gathigi Moses Muiruri**  
+  [gathimoses@gmail.com](mailto:gathimoses@gmail.com)
+
+- **Isaiah Odongo**  
+  [odongoreagan19@gmail.com](mailto:odongoreagan19@gmail.com)
+
+- **Keren Hapuch Ntinyari**  
+  [kerenhapuch68@gmail.com](mailto:kerenhapuch68@gmail.com)
+
+- **Jebichi Joyce**  
+  [jebichiijoyce@gmail.com](mailto:jebichiijoyce@gmail.com)
+
+- **Palpable Smart**  
+  [palpable237@gmail.com](mailto:palpable237@gmail.com)
+
+
 # AI Ethics and Fairness Project
 
 This project explores ethical considerations in artificial intelligence through theory, case studies, practical audits, and personal reflection. The analysis includes fairness auditing using IBM’s AI Fairness 360 toolkit, and a bonus section proposing healthcare AI guidelines.
