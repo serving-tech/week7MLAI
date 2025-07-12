@@ -49,7 +49,7 @@ Contains:
 
 ## Bonus Task (Optional +10%)
 
-**File:** [bonus.md](./bonus.md)
+**File:** [bonus.pdf](./bonus.pdf)
 
 Includes:
 - A one-page policy proposal for ethical AI in healthcare, covering:
